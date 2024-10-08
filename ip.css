@@ -1,0 +1,18 @@
+#opp{
+    /* border-style:inset;
+    border-color: blue;
+    border-radius: 10px;
+    border-width: 20px; */
+
+    border:20px blue groove;
+    width: 31%;
+    height:80px;
+    font-size:larger;
+}
+.pl{
+    border:2px red groove;
+    height:30%;
+    width:55%;
+    background-color: aqua;
+    border-radius: 20px;
+}
